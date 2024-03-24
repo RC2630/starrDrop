@@ -1,0 +1,7 @@
+rare_brawler: 100 credits
+super_rare_brawler: 200 credits
+epic_brawler: 500 credits
+mythic_brawler: 1000 credits
+legendary_brawler: 2000 credits
+gadget: 500 coins
+star_power: 1000 coins

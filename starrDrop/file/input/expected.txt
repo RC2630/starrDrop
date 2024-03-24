@@ -1,0 +1,39 @@
+rare 50:
+coins: 50 41.9
+ppt: 25 32.6
+doublers: 100 20.9
+credits: 10 2.3
+cosmetics: 2.3
+hyper: 0
+
+super_rare 28:
+coins: 100 42.38
+ppt: 50 33.11
+doublers: 200 13.25
+credits: 30 3.31
+cosmetics: 3.31+3.31+1.32
+hyper: 0
+
+epic 15:
+coins: 200 21.05
+ppt: 100 21.05
+doublers: 500 10.53
+credits: 100 5.26
+cosmetics: 15.79+15.79+5.26+5.26
+hyper: 0
+
+mythic 5:
+coins: 500 15.82+9.49
+ppt: 200 18.99
+doublers: 0
+credits: 200 9.49, 500 6.33, 1000 1.9
+cosmetics: 15.82+6.33+6.33+6.33+3.16
+hyper: 0
+
+legendary 2:
+coins: 1000 27.17
+ppt: 0
+doublers: 0
+credits: 500 10.87, 1000 5.43, 2000 2.17
+cosmetics: 35.87+2.17
+hyper: 16.3
