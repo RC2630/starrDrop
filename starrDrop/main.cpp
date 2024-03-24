@@ -1,3 +1,5 @@
+#include "expected.h"
+
 int main() {
-    // TODO: put stuff here
+    ExpectedTable().writeToFile();
 }

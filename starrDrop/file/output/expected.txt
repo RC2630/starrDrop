@@ -1,0 +1,7 @@
+rarity prob coins ppt doublers credits cosmetics hyper
+rare 0.5 20.95 8.15 20.9 0.23 0.023 0
+super_rare 0.28 42.38 16.555 26.5 0.993 0.0794 0
+epic 0.15 42.1 21.05 52.65 5.26 0.421 0
+mythic 0.05 126.55 37.98 0 69.63 0.3797 0
+legendary 0.02 271.7 0 0 152.05 0.3804 0.163
+OVERALL NA 40.4179 13.7669 25.7675 7.70454 0.123475 0.00326
