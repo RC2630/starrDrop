@@ -1,0 +1,11 @@
+rarity coins ppt doublers credits cosmetics hyper
+super_rare 0 0 200 0 0 0
+epic 200 0 0 0 0 0
+mythic 500 0 0 0 0 0
+rare 50 0 0 0 0 0
+epic 0 0 0 0 1 0
+epic 0 100 0 0 0 0
+rare 0 25 0 0 0 0
+super_rare 100 0 0 0 0 0
+super_rare 0 50 0 0 0 0
+super_rare 100 0 0 0 0 0

@@ -1,0 +1,10 @@
+super_rare 200 doublers
+epic 200 coins
+mythic 500 coins
+rare 50 coins
+epic cosmetics
+epic 100 ppt
+rare 25 ppt
+super_rare 100 coins
+super_rare 50 ppt
+super_rare 100 coins
